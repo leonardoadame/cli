@@ -106,6 +106,6 @@
 		"tar": "^6.1.13",
 		"vscode-dev-containers": "https://github.com/microsoft/vscode-dev-containers/releases/download/v0.245.2/vscode-dev-containers-0.245.2.tgz",
 		"vscode-uri": "^3.0.7",
-		"yargs": "~17.7.1"
+		"yargs": "~17.7.2"
 	}
 }

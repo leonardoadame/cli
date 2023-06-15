@@ -100,7 +100,7 @@
 		"proxy-agent": "^5.0.0",
 		"pull-stream": "^3.7.0",
 		"recursive-readdir": "^2.2.3",
-		"semver": "^7.3.8",
+		"semver": "^7.4.0",
 		"shell-quote": "^1.8.0",
 		"stream-to-pull-stream": "^1.7.3",
 		"tar": "^6.1.13",
